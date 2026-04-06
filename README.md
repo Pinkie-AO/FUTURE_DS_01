@@ -27,7 +27,7 @@ The analysis focuses on identifying high-performing products, understanding sale
 
 The dashboard provides a comprehensive view of sales and profit performance across products, categories, regions, and time.
 
-## 📈 Key Insights
+##  Key Insights
 
 * **Technology generates the highest sales**, followed closely by Furniture and Office Supplies
 * **Top products (e.g., Canon, HP)** contribute significantly to total profit
